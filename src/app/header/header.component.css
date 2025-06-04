@@ -21,9 +21,10 @@ a.logo{
 }
 nav ul{
     list-style-type: none;
-    margin: 0;
+    margin-top: 1rem;
+    display: flex;
 }
 nav ul li a{
     padding: 1em;
-    display: inline-block;
+    /* display: inline-block; */
 }
